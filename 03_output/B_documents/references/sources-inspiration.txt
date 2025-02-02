@@ -7,7 +7,6 @@ Structuring R projects
 R bloggers
 https://www.r-bloggers.com/2018/08/structuring-r-projects-2/
 
-
 Luka Negoita
 How to organize your analyses with R Studio Projects - Or how to stay sane when working on big projects
 R for Ecology
