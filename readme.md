@@ -98,8 +98,13 @@ That's it. This is what works for me, and I come back here to use the template e
 [^1]: Note GitHub also has something called ['projects'](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects). This has nothing to do with the case discussed here.
 
 [^2]: Directory = folder? No, but you don't have to worry about that now.
+
 [^3]: The one I like the most (and used for this document is the [Text Tree Generator](https://www.text-tree-generator.com/). But there are a couple of other ways, see [here](https://stackoverflow.com/questions/1581559/ascii-library-for-creating-pretty-directory-trees) and [here](https://centerkey.com/tree/)
+
 [^4]: Note to myself: link here to the python notebook template.
+
 [^5]: There are cases when I am tempted to change raw data files. For example if I forgot to apply a calibration constant to the temperature data... it's just multiplying all my temperature values by a constant, right? what can go wrong? Well, since I tend to realize this kind of things way past the experiment, I try to handle these cases *in the script that uses the raw data* instead of changing the *raw data itself*. The reason is that I find it much more convenient and clear to explain what I did and why in a script than using an additional file next the the raw data file (or even worse: editing the raw data file which can change the date, file encoding, etc. of the original file). The other reason is that, if for some crazy mistake (that never happened to me, of course) the calibration constant was wrong, then I have to change the file again! Not a good practice...
-[^6]: It's mostly for TOC-related organizational tendencies: in my file-managing setup, the directories are listed alphabetically, therefore by using those prefixes I see them ordered and nice, exactly as it is shown here. If I don't use the prefixes, the 'processed' filder will appear before 'raw', which is annyoing to me. *But what's with the leading zeroes in '01', '02', '03'? couldn't you just use '1', '2', '3'?* Yes, true. That is simply personal preference. Yes, I have a problem, I know :p.
+
+[^6]: It's mostly for OCD-related organizational tendencies: in my file-managing setup, the directories are listed alphabetically, therefore by using those prefixes I see them ordered and nice, exactly as it is shown here. If I don't use the prefixes, the 'processed' filder will appear before 'raw', which is annyoing to me. *But what's with the leading zeroes in '01', '02', '03'? couldn't you just use '1', '2', '3'?* Yes, true. That is simply personal preference. Yes, I have a problem, I know :p.
+
 [^7]: For example, check [Annals of Improbable Research](https://improbable.com/).
