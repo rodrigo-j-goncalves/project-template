@@ -1,0 +1,18 @@
+Danielle Navarro
+Project structure
+https://djnavarro.net/slides-project-structure/#1
+
+Chris von Csefalvay
+Structuring R projects
+R bloggers
+https://www.r-bloggers.com/2018/08/structuring-r-projects-2/
+
+
+Luka Negoita
+How to organize your analyses with R Studio Projects - Or how to stay sane when working on big projects
+R for Ecology
+https://www.rforecology.com/post/organizing-your-r-studio-projects/
+
+Curtis Miller
+How Should I Organize My R Research Projects?
+https://ntguardian.wordpress.com/2018/08/02/how-should-i-organize-my-r-research-projects/
